@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Hey There, Welcome to QA API for Abhijeet's Bank Card Microservices. If you need any support then contact the Developer with the given contact details"
+  contactDetails:
+    name: "Abhijeet - QA LEAD"
+    email: "akjhaa@gmail.com"
+  onCallSupport:
+    - (999) 222-2365
+    - (999) 222-2366

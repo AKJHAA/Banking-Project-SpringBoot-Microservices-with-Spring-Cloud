@@ -1,0 +1,37 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: cards
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password: ''
+  h2:
+    console:
+      enabled: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  config:
+    import:
+      - "application_qa.yml"
+      - "application_prod.yml"
+  profiles:
+    active: "qa"
+
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Hey There, Welcome to Card microservices in Abhijeet's BankIf you need any support then contact the Developer with the given contact details"
+  contactDetails:
+    name: "Abhijeet"
+    email: "akjhaa@gmail.com"
+  onCallSupport:
+    - (999) 333-2365
+    - (999) 333-2366
