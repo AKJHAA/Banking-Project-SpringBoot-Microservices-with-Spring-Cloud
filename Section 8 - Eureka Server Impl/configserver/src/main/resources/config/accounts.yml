@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Hey There If you need any support then contact the Developer with the given contact details"
+  contactDetails:
+    name: "Abhijeet"
+    email: "akjhaa@gmail.com"
+  onCallSupport:
+    - (999) 333-2365
+    - (999) 333-2366

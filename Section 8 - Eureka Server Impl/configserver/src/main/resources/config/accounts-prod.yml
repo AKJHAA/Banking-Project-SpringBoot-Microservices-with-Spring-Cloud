@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Hey There, Welcome to PROD API for Abhijeet's Bank. If you need any support then contact the Developer with the given contact details"
+  contactDetails:
+    name: "Abhijeet - PROD_OWNER"
+    email: "akjhaa@gmail.com"
+  onCallSupport:
+    - (999) 111-2365
+    - (999) 222-2366
