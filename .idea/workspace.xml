@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ef0385d-d661-4a77-b0e4-ed0f4b4c20c2" name="Changes" comment="Setting up the Eureka Server.">
-      <change afterPath="$PROJECT_DIR$/accounts/ERROR" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/[auth]" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/[internal]" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/docker" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/src/main/java/com/abhi/accounts/dto/AccountContactInfoDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts" beforeDir="false" afterPath="$PROJECT_DIR$/accounts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/java/com/abhi/accounts/AccountsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/java/com/abhi/accounts/AccountsApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/java/com/abhi/accounts/Constants/AccountsConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/java/com/abhi/accounts/Constants/AccountsConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/java/com/abhi/accounts/Controller/AccountsContoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/java/com/abhi/accounts/Controller/AccountsContoller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/accounts" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/accounts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/eurekaserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/eurekaserver/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../V1-SpringBoot/accounts" beforeDir="false" afterPath="$PROJECT_DIR$/../V1-SpringBoot/accounts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../V2- SpringBoot/accounts" beforeDir="false" afterPath="$PROJECT_DIR$/../V2- SpringBoot/accounts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../V2-SpringBoot-MySql-Implementation/accounts" beforeDir="false" afterPath="$PROJECT_DIR$/../V2-SpringBoot-MySql-Implementation/accounts" afterDir="false" />
@@ -28,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AKJHAA&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AKJHAA/Banking-Project-SpringBoot-Microservices-with-Spring-Cloud.git&quot;,
+    &quot;accountId&quot;: &quot;58dd19f2-2491-4f80-bebf-b4f170e78a03&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -43,20 +47,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "S:/Abhijeet_Banking_Project_Microservices/Section 8 - Eureka Server Impl",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;S:/Abhijeet_Banking_Project_Microservices/Section 8 - Eureka Server Impl&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -123,7 +127,8 @@
       <option name="presentableId" value="Default" />
       <updated>1771157640901</updated>
       <workItem from="1771157642153" duration="3431000" />
-      <workItem from="1771161136488" duration="2883000" />
+      <workItem from="1771161136488" duration="3307000" />
+      <workItem from="1771267751280" duration="821000" />
     </task>
     <task id="LOCAL-00001" summary="Setting up the Eureka Server.">
       <option name="closed" value="true" />
