@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/accounts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/accounts" vcs="Git" />
+  </component>
+</project>

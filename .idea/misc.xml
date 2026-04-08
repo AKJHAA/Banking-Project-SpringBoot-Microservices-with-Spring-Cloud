@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/V1-SpringBoot/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/V1-SpringBoot/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/V2- SpringBoot/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/V2- SpringBoot/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/V2- SpringBoot/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/V2-SpringBoot-MySql-Implementation/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/V2-SpringBoot-MySql-Implementation/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/V2-SpringBoot-MySql-Implementation/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 8 - Eureka Server Implementation/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/eurekaserver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

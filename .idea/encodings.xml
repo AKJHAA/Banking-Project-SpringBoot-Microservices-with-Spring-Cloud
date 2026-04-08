@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Section 8 - Eureka Server Implementation/accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Eureka Server Implementation/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Eureka Server Implementation/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Eureka Server Implementation/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Section 8 - Eureka Server Implementation/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1-SpringBoot/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V1-SpringBoot/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/accounts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2 Section 8 Implement Service registry and Load Balancing/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2- SpringBoot/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2- SpringBoot/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2- SpringBoot/loans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2-SpringBoot-MySql-Implementation/cards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2-SpringBoot-MySql-Implementation/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/V2-SpringBoot-MySql-Implementation/loans/src/main/java" charset="UTF-8" />
+  </component>
+</project>
