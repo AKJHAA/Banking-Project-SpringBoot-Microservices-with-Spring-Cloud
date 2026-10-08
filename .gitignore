@@ -1,1 +1,71 @@
+# =========================
+# IDE Files
+# =========================
 .idea/
+*.iml
+.vscode/
+
+# =========================
+# Build Files
+# =========================
+target/
+build/
+out/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Maven
+# =========================
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# =========================
+# Environment Files
+# =========================
+.env
+*.env
+
+# =========================
+# Node (if frontend added)
+# =========================
+node_modules/
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.swp
+
+# =========================
+# Spring Boot
+# =========================
+application-*.properties
+application-*.yml
+
+# =========================
+# Docker (optional)
+# =========================
+*.tar
+
+# =========================
+# Eclipse (if used)
+# =========================
+.project
+.classpath
+.settings/
+
+# =========================
+# Mac/Linux hidden files
+# =========================
+.*.swp
